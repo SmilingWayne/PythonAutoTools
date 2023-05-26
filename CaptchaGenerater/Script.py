@@ -27,6 +27,8 @@ def generate_captcha_image():
         os.makedirs(path)
     print("生成的验证码的图片为：", captcha_text)
     image.write(captcha_text, path + captcha_text + '.png')
+
+
 if __name__ == '__main__':
     number = 30
     for i in range(number):
