@@ -13,4 +13,5 @@
     - ✅ [ExtractExcelSheets](./ExtractExcelSheets/)：Extract all the sheets in an excel(xlsx/ xls) file.
     - ✅ [JSON2DB](./Json2DB/)： Extract data from standard JSON file to sqlite3 in Python.
     - ✅ [PointsSurface](./PointsSurface/): Given some points in 3-D axis. Display the surface that can best fit all of them.
+    - ✅ [DatabaseEncrypt](./DatabaseEncrypt/): (Python Version <= 3.8): Give a database and use sqleet package to encrypt it, meanwhile copying all the data from the source file
     - [CSV-Merger](): Merge CSV files(with same columns) into 1 larger file
